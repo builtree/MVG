@@ -1,10 +1,25 @@
-# Charter for the [FIXME] Organization
+# Charter for the Builtree Organization
 
-This is the organizational charter for the [FIXME] Organization (the "Organization"). By adding their name to the Steering Committee.md file, Steering Committee members agree as follows.
+This is the organizational charter for the Builtree Organization (the "Organization"). By adding their name to the Steering Committee.md file, Steering Committee members agree as follows.
 
 ## 1. Mission
 
-[Set out mission of the Organization].
+Builtree is a collaborative project incubator supporting varied independent projects and aims to promote project based learning amongst aspiring developers, project managers, content writers, and designers. The primary goals of the organisation are as follows:
+
+1. Having a diverse catalogue of independent projects, maintained by respective project maintainers.
+2. To help individuals learn new skills by contributing to these projects or collaboratively building something new from scratch!
+3. Helping contributors by:
+
+    - steering them to projects requiring the skills they have/improve/want to learn.
+    - converting ideas to projects and building the right team.
+    - introducing them to open-source.
+
+4. Helping projects by:
+
+    - matching them with possible contributors.
+    - gain better exposure through an active community.
+    - participate in open-source programs.
+    - turn projects into products and increasing the future prospects of the project.
 
 ## 2. Steering Committee
 
@@ -44,18 +59,19 @@ Information disclosed in connection with any of the Organization's activities, i
 
 In order to be eligible to be a Organization project, a project must:
 
-* Be approved by the Steering Committee.
-* Agree to follow the guidance and direction of the Steering Committee.
-* Use only the following outbound licenses or agreements unless otherwise approved:
-  - For code, a license on the Open Source Initiative's list of [Popular Licenses](https://opensource.org/licenses).
-  - For data, a license on the Open Knowledge Foundation's list of [Recommended Conformant Licenses](http://opendefinition.org/licenses/).
-  - For specifications, a community developed and maintained specification agreement, such the [Open Web Foundation Agreements](http://www.openwebfoundation.org/legal) or [Community Specification Agreement](https://github.com/CommunitySpecification/1.0).
-* Include and adhere to the Organization's policies, including the trademark policy, the antitrust-policy, and the code of conduct.
+-   Be approved by the Steering Committee.
+-   Agree to follow the guidance and direction of the Steering Committee.
+-   Use only the following outbound licenses or agreements unless otherwise approved:
+    -   For code, a license on the Open Source Initiative's list of [Popular Licenses](https://opensource.org/licenses).
+    -   For data, a license on the Open Knowledge Foundation's list of [Recommended Conformant Licenses](http://opendefinition.org/licenses/).
+    -   For specifications, a community developed and maintained specification agreement, such the [Open Web Foundation Agreements](http://www.openwebfoundation.org/legal) or [Community Specification Agreement](https://github.com/CommunitySpecification/1.0).
+-   Include and adhere to the Organization's policies, including the trademark policy, the antitrust-policy, and the code of conduct.
 
 ## 9. Amendments
 
 Amendments to this charter, the antitrust policy, the trademark policy, or the code of conduct may only be made with at least a 3/4 affirmative vote of the Steering Committee.
 
 ---
+
 Part of MVG-0.1-beta.
 Made with love by GitHub. Licensed under the [CC-BY 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/).
