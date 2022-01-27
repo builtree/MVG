@@ -4,11 +4,15 @@ This document provides the governance policy for the Project. Maintainers agree 
 
 ## 1. Roles.
 
-This project may include the following roles. Additional roles may be adopted and documented by the Project.
+This project **may** include the following roles. Additional roles may be adopted and documented by the Project.
 
 **1.1. Maintainers**. Maintainers are responsible for organizing activities around developing, maintaining, and updating the Project. Maintainers are also responsible for determining consensus. This Project may add or remove Maintainers with the approval of the current Maintainers.
 
-**1.2. Contributors**. Contributors are those that have made contributions to the Project.
+**1.2. Open Source Product Managers**. (OSPMs). OSPMs are responsible for understanding the project completely, researching and determining a constantly evolving vision/roadmap the project can follow. OSPMs will help those involved in the project priotize what is important moving forward with the project.
+
+**1.3. Mentors**. Mentors are responsible for mentoring contributors by engaging the contributors and helping them with their contributions by providing subtle guidance. Mentors can also be contributors in the project.
+
+**1.4. Contributors**. Contributors are those that have made contributions to the Project.
 
 ## 2. Decisions.
 

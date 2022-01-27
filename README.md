@@ -1,5 +1,7 @@
 # Minimum Viable Governance
 
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
+
 ## What is Minimum Viable Governance?
 
 Minimum Viable Governance (MVG) - currently in beta - is a repository-based approach for putting lightweight governance into free and open source projects that are run in version control systems. It provides an overall two-tier organizational governance structure for a set of free and open source projects. At the top level (called an "organization" on GitHub), there is a technical steering committee to make decisions about the overall direction and coordination between all the organization's projects. Underneath that top level are the individual projects, with lightweight, consensus-based governance.
